@@ -9,7 +9,7 @@ This GitHub repository contains a unique and interactive portfolio website desig
 *Contact and Social Links: The website includes contact information and links to the developer's social media profiles, enabling visitors to connect and reach out easily.
 
 ## Live Link
-To experience the interactive portfolio console website, please visit the live version hosted at [INSERT_LIVE_LINK_HERE]: https://saurabhkurve.github.io/portfolio-Latest/
+To experience the interactive portfolio console website, please visit the live version hosted at [INSERT_LIVE_LINK_HERE (https://saurabhkurve.github.io/portfolio-Latest)]. 
 
 Feel free to explore the various commands and sections to gain insights into the developer's projects background. Your feedback and suggestions are highly appreciated.
 
